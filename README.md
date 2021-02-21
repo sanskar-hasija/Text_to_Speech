@@ -3,7 +3,7 @@ A combination of Deep Learning and Google Translate to convert handwritten text 
 
 
 
-This project takes OCR and handwritten text as input and provides translated output in audio format available in 108 different languages.
+This project takes documented and handwritten text as input and provides translated output in audio format available in 108 different languages.
 The backbone of the project is the handwritten text detection model which is trained using transfer learning on RESNET50.
 
 
