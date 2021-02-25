@@ -32,10 +32,8 @@ One example of documented detection is as follows:
 
 ![](test%20images/ocr.png)
 
-The text detected from this image is : 
- 
-![](Result%20Images/OCR/OCR%20Detection.PNG)
 
-The translated version of this output : 
+
+The translated output for the above image is : 
 
 ![](Result%20Images/OCR/Translated%20Text.PNG)
