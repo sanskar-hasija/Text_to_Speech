@@ -26,3 +26,16 @@ The classification report for every character:
 The model was trained on Tensorflow 2.1.0 and OpenCV 4.2.0. 
 
 The trained model file is available on [https://github.com/sanskar-hasija/Text_to_Speech/blob/main/Trained%20Model/model.h5](https://github.com/sanskar-hasija/Text_to_Speech/blob/main/Trained%20Model/model.h5)
+
+Also , with the help of Pytesseract library,  documented text is converted and later translated . 
+One example of documented detection is as follows: 
+
+![](main/test%20images/ocr.png)
+
+The text detected from this image is : 
+ 
+![](main/Result%20Images/OCR/OCR%20Detection.PNG)
+
+The translated version of this output : 
+
+![](main/Result%20Images/OCR/Translated%20Text.PNG)
